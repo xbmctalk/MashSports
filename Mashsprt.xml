@@ -1,0 +1,187 @@
+#######################################################################################################################################
+<poster>Mash2k3</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message>Reports dead links [COLOR red]ONLY[/COLOR] for this section on twitter(@mashupxbmc)</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
+
+
+<sublink></sublink>
+
+##################################################################################################################
+
+################################################################################################################
+<item>
+<title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://89.248.163.3/play?wmsAuth=T8zF23EmvKSVM3DihgdBVRHeXOJLpn8RAHFch8Aqqvtru8gX4lb82jwRdlfGJR/skysporthd1 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#.</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmpe://178.18.30.120/live/jan2 pageUrl=http://www.ukcast.tv</sublink>
+ <sublink>rtmp://89.248.163.3/play?wmsAuth=Sk2qB8i3QRNrtbitV0GWl1wWrVYdf75ZgHXgHt6CkYWYbV6MMfgAFym6uTQpbk/skysporthd2 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#.</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56/base/sky3.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
+ <sublink>rtmpe://178.18.30.120/live/jan3 pageUrl=http://www.ukcast.tv</sublink>
+ <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmpe://178.18.30.120/live/jan4 pageUrl=http://www.ukcast.tv</sublink>
+ <sublink>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</sublink>
+</link>
+<thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
+</item>
+<item>
+
+
+<item>
+<title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.31:1935/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://live.iguide.to/edge playpath=sdn0kjkdzyluycg swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=53085&autoplay=true token=I8772LDKksadhGHGagf#</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56/base/skysnews.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink></sublink>
+</link>
+<thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56/base playpath=bt1.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=live swfVfy=live timeout=15 token=%X886(nPK@#.</sublink>
+</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56/base playpath=bt2.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=live swfVfy=live timeout=15 token=%X886(nPK@#.</sublink>
+</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://95.188.107.166:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://95.188.126.233:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://95.188.118.60:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://92.126.198.226:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.2.198:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.4.66:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.5.175:1234/udp/233.7.70.132:5000</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+ 
+<item>
+<title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://www.stream2watch.me/showstream.php?id=25631&stream=1</sublink>
+ <sublink>http://178.165.82.71:7781/udp/239.0.0.212:1234</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 1 UK</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_UK_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+ 
+<item>
+<title>Eurosport 2 UK [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink>
+ <sublink>rtmp://46.246.124.6:443/liverepeater/20828 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
+ <sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Sportsnet World</title>
+<link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
+<thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
+</item>
+
+<item>
+<title>NHL Network</title>
+<link>
+ <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
+ <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8</sublink>
+ </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>
+ <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan22 pageUrl=http://www.hdcast.tv</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Redzone</title>
+<link>
+ <sublink>rtmp://46.246.29.144:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=14t3o4e42695y244x474n294z214z2t21484x2q2p213z2&adx=&stream=f5x28484i5c474x27454q2a4s23413n23485c313l4y323j5x4b4t27433q284x2q2v2u234r274z2u214t3o4e42695y244x4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2z284337454v2c434a4y2x2j5w2m5d4i594w2u2j574u2a4r2c43384k59413v2w2s2t2343434t2y3s2p2l5u4&sooor=MTU=&str=is&idom=firstrowus1.eu</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/streamhdking310 pageUrl=http://www.hdcast.tv</sublink>
+</link>
+<thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
+ <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1240.m3u8</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Fight Box HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
+</item>
+
+######################################################################################################################################################
+
+
+
